@@ -19,7 +19,7 @@ Take a look at my [Portfolio](https://muhib.tech) & Github repositories and feel
 
 ## 🚀 Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![SASS](https://img.icons8.com/color/30/sass.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![NextJs](https://img.icons8.com/color/30/nextjs.png)![NodeJs](https://img.icons8.com/color/30/nodejs.png)![ExpressJs](https://img.icons8.com/color/30/expressjs.png)![Mongodb](https://img.icons8.com/color/30/mongodb.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![SASS](https://img.icons8.com/color/30/sass.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![NextJs](https://img.icons8.com/color/30/nextjs.png)![NodeJs](https://img.icons8.com/color/30/nodejs.png)![ExpressJs](https://img.icons8.com/color/30/express-js.png)![Mongodb](https://img.icons8.com/color/30/mongodb.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 
 
